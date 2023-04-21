@@ -1,1 +1,1 @@
-# project-3-FinanceGPT
+# project-3-QuantGPT
